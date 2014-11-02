@@ -1,7 +1,20 @@
 # Flattr #
 
+Plugin for [Saito-Forum][saito]. Adds Flattr button to postings and user profile page.
+
+[saito]: https://github.com/Schlaefer/Saito
+
 ## Install ##
 
+Either clone/copy the files in this directory into `app/Plugin/Flattr` or using composer:
+
+```json
+{
+    "require": {
+        "cakephp/debug_kit": "2.2.*"
+    }
+}
+```
 
 Add new database-fields:
 
