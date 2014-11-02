@@ -11,7 +11,7 @@ Either clone/copy the files in this directory into `app/Plugin/Flattr` or using 
 ```json
 {
     "require": {
-        "cakephp/debug_kit": "2.2.*"
+        "schlaefer/saito-flattr": "*"
     }
 }
 ```
