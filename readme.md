@@ -1,5 +1,7 @@
 # Flattr #
 
+## What ##
+
 Plugin for [Saito-Forum][saito]. Adds Flattr button to postings and user profile page.
 
 [saito]: https://github.com/Schlaefer/Saito
