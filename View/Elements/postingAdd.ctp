@@ -26,7 +26,7 @@
 			if ($this->request->is('ajax')) {
 				// if it's an answer
 				$code = "$(document).ready(function (){
-										var data = " . $this->request->data['Entry']['category'] . ";
+										var data = " . $this->request->data['Entry']['category_id'] . ";
 										$code_insert
 									});";
 			} else {
