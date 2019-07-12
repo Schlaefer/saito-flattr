@@ -1,4 +1,5 @@
 {
+	"abandoned": true,
 	"name": "schlaefer/saito-flattr",
 	"description": "Flattr for Saito forum",
 	"type": "cakephp-plugin",
